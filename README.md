@@ -3,4 +3,4 @@ In this work, I have utilized data.traj(provided) to preparation a dataset which
 
 In order to run these jupyter files. Either use google colab or install packages using requirements.txt in your local system to run in local machine
 
-Read file "Readme-Python_task.pdf" for better understanding of task
+Please, read file "Readme-Python_task.pdf" for better understanding of task.
